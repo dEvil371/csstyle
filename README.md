@@ -36,6 +36,6 @@ Now you're set and can start creating components with options & parts, adding in
 
 Documentation for csstyle can be found [here](https://csstyle.io/installation).
 
-## License
+## License for the cssstyle
 
 csstyle is open-sourced software licensed under the [MIT license](https://github.com/csstyle-org/csstyle/blob/master/LICENSE).
